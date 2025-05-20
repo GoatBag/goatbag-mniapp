@@ -1,62 +1,62 @@
 [
-    {
-        "name": "C.P. Company Jacket (Rouge)",
-        "price_100": 25,
-        "price_500": 100,
-        "image": "https://i.imgur.com/PJXVYWx.jpeg"
-    },
-    {
-        "name": "C.P. Company Jacket (Noir)",
-        "price_100": 25,
-        "price_500": 100,
-        "image": "https://i.imgur.com/pxubbYh.jpeg"
-    },
-    {
-        "name": "Stone Island Badge",
-        "price_100": 25,
-        "price_500": 100,
-        "image": "https://goatbag.vercel.app/assets/stone_island.jpg"
-    },
-    {
-        "name": "Nike Tuned Pink",
-        "price_100": 25,
-        "price_500": 100,
-        "image": "https://goatbag.vercel.app/assets/nike_tuned_pink.jpg"
-    },
-    {
-        "name": "Nike Tuned 25th",
-        "price_100": 25,
-        "price_500": 100,
-        "image": "https://goatbag.vercel.app/assets/nike_tuned_25th.jpg"
-    },
-    {
-        "name": "Nike Tuned Triple Swoosh",
-        "price_100": 25,
-        "price_500": 100,
-        "image": "https://goatbag.vercel.app/assets/nike_tuned_triple.jpg"
-    },
-    {
-        "name": "El Mordjene",
-        "price_100": 25,
-        "price_500": 100,
-        "image": "https://goatbag.vercel.app/assets/el_mordjene.jpg"
-    },
-    {
-        "name": "Static NFL",
-        "price_100": 25,
-        "price_500": 100,
-        "image": "https://goatbag.vercel.app/assets/static_nfl.jpg"
-    },
-    {
-        "name": "Static Plug",
-        "price_100": 25,
-        "price_500": 100,
-        "image": "https://goatbag.vercel.app/assets/static_plug.jpg"
-    },
-    {
-        "name": "Frozen Mexique",
-        "price_100": 25,
-        "price_500": 100,
-        "image": "https://goatbag.vercel.app/assets/frozen_mexique.jpg"
-    }
+  {
+    "name": "C.P. Company Jacket (Rouge)",
+    "price_100": 25,
+    "price_500": 100,
+    "image": "https://i.imgur.com/PJXVYWx.jpeg"
+  },
+  {
+    "name": "C.P. Company Jacket (Noir)",
+    "price_100": 25,
+    "price_500": 100,
+    "image": "https://i.imgur.com/pxubbYh.jpeg"
+  },
+  {
+    "name": "Stone Island Badge",
+    "price_100": 25,
+    "price_500": 100,
+    "image": "https://goatbag.vercel.app/assets/stone_island.jpg"
+  },
+  {
+    "name": "Nike Tuned Pink",
+    "price_100": 25,
+    "price_500": 100,
+    "image": "https://goatbag.vercel.app/assets/nike_tuned_pink.jpg"
+  },
+  {
+    "name": "Nike Tuned 25th",
+    "price_100": 25,
+    "price_500": 100,
+    "image": "https://goatbag.vercel.app/assets/nike_tuned_25th.jpg"
+  },
+  {
+    "name": "Nike Tuned Triple Swoosh",
+    "price_100": 25,
+    "price_500": 100,
+    "image": "https://goatbag.vercel.app/assets/nike_tuned_triple.jpg"
+  },
+  {
+    "name": "El Mordjene",
+    "price_100": 25,
+    "price_500": 100,
+    "image": "https://goatbag.vercel.app/assets/el_mordjene.jpg"
+  },
+  {
+    "name": "Static NFL",
+    "price_100": 25,
+    "price_500": 100,
+    "image": "https://goatbag.vercel.app/assets/static_nfl.jpg"
+  },
+  {
+    "name": "Static Plug",
+    "price_100": 25,
+    "price_500": 100,
+    "image": "https://goatbag.vercel.app/assets/static_plug.jpg"
+  },
+  {
+    "name": "Frozen Mexique",
+    "price_100": 25,
+    "price_500": 100,
+    "image": "https://goatbag.vercel.app/assets/frozen_mexique.jpg"
+  }
 ]
