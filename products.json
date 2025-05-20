@@ -1,12 +1,62 @@
 [
-  {
-    "name": "Produit 1",
-    "price": "10",
-    "image": "https://via.placeholder.com/150"
-  },
-  {
-    "name": "Produit 2",
-    "price": "15",
-    "image": "https://via.placeholder.com/150"
-  }
+    {
+        "name": "C.P. Company Jacket (Rouge)",
+        "price": "25 \u20ac (100 pcs)",
+        "price2": "100 \u20ac (500 pcs)",
+        "image": "https://i.imgur.com/EbMIYiA.jpeg"
+    },
+    {
+        "name": "C.P. Company Jacket (Noir)",
+        "price": "25 \u20ac (100 pcs)",
+        "price2": "100 \u20ac (500 pcs)",
+        "image": "https://i.imgur.com/YH5NP9G.jpeg"
+    },
+    {
+        "name": "Stone Island Badge",
+        "price": "25 \u20ac (100 pcs)",
+        "price2": "100 \u20ac (500 pcs)",
+        "image": "https://i.imgur.com/pfCEhNA.jpeg"
+    },
+    {
+        "name": "Nike Tuned Pink",
+        "price": "25 \u20ac (100 pcs)",
+        "price2": "100 \u20ac (500 pcs)",
+        "image": "https://i.imgur.com/y7Hlo9E.jpeg"
+    },
+    {
+        "name": "Nike Tuned 25th",
+        "price": "25 \u20ac (100 pcs)",
+        "price2": "100 \u20ac (500 pcs)",
+        "image": "https://i.imgur.com/q5EGaa4.jpeg"
+    },
+    {
+        "name": "Nike Tuned Triple Swoosh",
+        "price": "25 \u20ac (100 pcs)",
+        "price2": "100 \u20ac (500 pcs)",
+        "image": "https://i.imgur.com/s1WhUMu.jpeg"
+    },
+    {
+        "name": "El Mordjene",
+        "price": "25 \u20ac (100 pcs)",
+        "price2": "100 \u20ac (500 pcs)",
+        "image": "https://i.imgur.com/mynKcf2.jpeg"
+    },
+    {
+        "name": "Static NFL",
+        "price": "25 \u20ac (100 pcs)",
+        "price2": "100 \u20ac (500 pcs)",
+        "image": "https://i.imgur.com/lVE9wQ2.jpeg"
+    },
+    {
+        "name": "Static Plug",
+        "price": "25 \u20ac (100 pcs)",
+        "price2": "100 \u20ac (500 pcs)",
+        "image": "https://i.imgur.com/N79d6TT.jpeg"
+    },
+    {
+        "name": "Frozen Mexique",
+        "price": "25 \u20ac (100 pcs)",
+        "price2": "100 \u20ac (500 pcs)",
+        "image": "https://i.imgur.com/CqtTxHR.jpeg"
+    }
 ]
