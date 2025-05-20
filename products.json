@@ -1,62 +1,62 @@
 [
     {
         "name": "C.P. Company Jacket (Rouge)",
-        "price": "25 \u20ac (100 pcs)",
-        "price2": "100 \u20ac (500 pcs)",
-        "image": "https://i.imgur.com/EbMIYiA.jpeg"
+        "price_100": "25",
+        "price_500": "100",
+        "image": "https://goatbag.vercel.app/assets/cp_company_red.jpg"
     },
     {
         "name": "C.P. Company Jacket (Noir)",
-        "price": "25 \u20ac (100 pcs)",
-        "price2": "100 \u20ac (500 pcs)",
-        "image": "https://i.imgur.com/YH5NP9G.jpeg"
+        "price_100": "25",
+        "price_500": "100",
+        "image": "https://goatbag.vercel.app/assets/cp_company_black.jpg"
     },
     {
         "name": "Stone Island Badge",
-        "price": "25 \u20ac (100 pcs)",
-        "price2": "100 \u20ac (500 pcs)",
-        "image": "https://i.imgur.com/pfCEhNA.jpeg"
+        "price_100": "25",
+        "price_500": "100",
+        "image": "https://goatbag.vercel.app/assets/stone_island.jpg"
     },
     {
         "name": "Nike Tuned Pink",
-        "price": "25 \u20ac (100 pcs)",
-        "price2": "100 \u20ac (500 pcs)",
-        "image": "https://i.imgur.com/y7Hlo9E.jpeg"
+        "price_100": "25",
+        "price_500": "100",
+        "image": "https://goatbag.vercel.app/assets/nike_tuned_pink.jpg"
     },
     {
         "name": "Nike Tuned 25th",
-        "price": "25 \u20ac (100 pcs)",
-        "price2": "100 \u20ac (500 pcs)",
-        "image": "https://i.imgur.com/q5EGaa4.jpeg"
+        "price_100": "25",
+        "price_500": "100",
+        "image": "https://goatbag.vercel.app/assets/nike_tuned_25th.jpg"
     },
     {
         "name": "Nike Tuned Triple Swoosh",
-        "price": "25 \u20ac (100 pcs)",
-        "price2": "100 \u20ac (500 pcs)",
-        "image": "https://i.imgur.com/s1WhUMu.jpeg"
+        "price_100": "25",
+        "price_500": "100",
+        "image": "https://goatbag.vercel.app/assets/nike_tuned_swoosh.jpg"
     },
     {
         "name": "El Mordjene",
-        "price": "25 \u20ac (100 pcs)",
-        "price2": "100 \u20ac (500 pcs)",
-        "image": "https://i.imgur.com/mynKcf2.jpeg"
+        "price_100": "25",
+        "price_500": "100",
+        "image": "https://goatbag.vercel.app/assets/el_mordjene.jpg"
     },
     {
         "name": "Static NFL",
-        "price": "25 \u20ac (100 pcs)",
-        "price2": "100 \u20ac (500 pcs)",
-        "image": "https://i.imgur.com/lVE9wQ2.jpeg"
+        "price_100": "25",
+        "price_500": "100",
+        "image": "https://goatbag.vercel.app/assets/static_nfl.jpg"
     },
     {
         "name": "Static Plug",
-        "price": "25 \u20ac (100 pcs)",
-        "price2": "100 \u20ac (500 pcs)",
-        "image": "https://i.imgur.com/N79d6TT.jpeg"
+        "price_100": "25",
+        "price_500": "100",
+        "image": "https://goatbag.vercel.app/assets/static_plug.jpg"
     },
     {
         "name": "Frozen Mexique",
-        "price": "25 \u20ac (100 pcs)",
-        "price2": "100 \u20ac (500 pcs)",
-        "image": "https://i.imgur.com/CqtTxHR.jpeg"
+        "price_100": "25",
+        "price_500": "100",
+        "image": "https://goatbag.vercel.app/assets/frozen_mexique.jpg"
     }
 ]
