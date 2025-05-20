@@ -1,8 +1,8 @@
 [
     {
         "name": "C.P. Company Jacket (Rouge)",
-        "price_100": "25euro",
-        "price_500": "100euro",
+        "price_100": 25,
+        "price_500": 100,
         "image": "https://i.imgur.com/PJXVYWx.jpeg"
     },
     {
